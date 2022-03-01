@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Shiroki Black Belt",
+"productVersion": "0.1",
+"dataUrl": "Shiroki WebGL.data.unityweb",
+"wasmCodeUrl": "Shiroki WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Shiroki WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.35f1"
+}
